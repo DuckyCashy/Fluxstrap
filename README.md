@@ -6,8 +6,8 @@
 
 <p align="center">
     <!-- Replace these with your own logo images if you make them, or leave as a placeholder -->
-    <img src="https://github.com/DuckyCashy/Fluxstrap/blob/main/Images/Bloxstrap-full-dark%20.png" width="380">
-    <img src="https://github.com/bloxstraplabs/bloxstrap/raw/main/Images/Bloxstrap-full-light.png#gh-light-mode-only" width="760">
+    <img src="https://github.com/DuckyCashy/Fluxstrap/blob/main/Images/Bloxstrap-full-dark%20.png" width="760">
+    <img src="https://github.com/DuckyCashy/Fluxstrap/blob/main/Images/Fluxstrap-full-light.png" width="760">
 </p>
 
 <div align="center">
