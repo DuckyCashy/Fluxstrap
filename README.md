@@ -1,5 +1,5 @@
 > [!CAUTION]
-> The only official places to download Fluxstrap are your official GitHub repository (`https://github.com/YOUR_GITHUB_USERNAME/Fluxstrap`) and any official community spaces you manage. Any other websites offering downloads or claiming to be us are not owned by us.
+> The only official places to download Fluxstrap are your official GitHub repository (`https://github.com/DuckyCashy/Fluxstrap`) and any official community spaces you manage. Any other websites offering downloads or claiming to be us are not owned by us.
 
 > [!IMPORTANT]
 > Fluxstrap is a modified fork. It is currently not a completed project, so bugs may crawl up in Roblox!
